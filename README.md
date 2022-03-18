@@ -28,3 +28,6 @@ Pada sintax ini bertujuan untuk membuat dokumen HTML. Seperti contoh pada gambar
 <br>
 kemudian pada poin ke-dua ini kita akan tambahkan deklarasi CSS Internal.
 seperti contoh pada gambar berikut:
+
+![menambahkan deklarasi css internal](gambar/css.png)
+
