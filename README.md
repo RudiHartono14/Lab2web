@@ -45,3 +45,10 @@ Berikut adalah contoh gambar nya:
 
 ![membuat CSS External](gambar/cssex.PNG)
 
+5. **Menambahkan CSS Selector**
+<br>
+lalu pada poin terakhir ini kita akan menambahkan CSS Selector pada file HTML kita.
+seperti contoh pada gambar di bawah ini:
+
+![menambahkan CSS Selector](gambar/selector.PNG)
+
