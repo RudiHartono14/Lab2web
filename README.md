@@ -31,4 +31,10 @@ seperti contoh pada gambar berikut:
 
 ![menambahkan deklarasi css internal](gambar/cssin.PNG)
 
+3. **Menambahkan inline CSS**
+<br>
+kemudian pada poin ke-tiga ini kita akan menambahkan inline CSS.
+seperti pada contoh gambar berikut:
+
+![menambahkan inline CSS](gambar/inline.PNG)
 
