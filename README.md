@@ -38,3 +38,10 @@ seperti pada contoh gambar berikut:
 
 ![menambahkan inline CSS](gambar/inline.PNG)
 
+4. **Membuat CSS External**
+<br>
+Lalu pada point ini kita akan membuat CSS External pada file HTML.
+Berikut adalah contoh gambar nya:
+
+![membuat CSS External](gambar/cssex.PNG)
+
